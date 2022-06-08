@@ -16,7 +16,6 @@
 #include <queue>
 #include <mutex>
 #include <thread>
-#include <glog/logging.h>
 #include <pcap/pcap.h>
 #include <ifaddrs.h>
 #include <linux/if_packet.h>
